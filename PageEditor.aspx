@@ -53,7 +53,7 @@
                 ribbonIFrame.style.height = "102px";
 
                 // Fix the position of the ribbon navigator (the Home, Advanced, Experience links)
-                navigator.style.marginLeft = "200px";
+                navigator.style.marginLeft = "80px";
             };
         </script>
 
