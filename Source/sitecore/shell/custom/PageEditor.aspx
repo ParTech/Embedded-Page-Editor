@@ -7,14 +7,6 @@
     /// 
     /// The script will embed the Page Editor in an iframe.
     /// In IE and FireFox there were some visibility issues and therefore some extra JavaScript is executed.
-    /// 
-    /// ---
-    /// Brought to you by Ruud van Falier, ParTech IT
-    /// 
-    /// Twitter: @BrruuD
-    /// Twitter: @ParTechIT
-    /// 
-    /// Web: http://www.partechit.nl
     /// </summary>
     public string GetPageEditorUrl()
     {

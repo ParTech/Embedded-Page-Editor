@@ -1,10 +1,13 @@
 Embedded Page Editor
 ====================
 
+Description
+-----------
 This script provides a solution for embedding the Sitecore Page Editor in the Content Editor as an editor tab.
 
+
 Installation
-----------------
+------------
 Add the *PageEditor.aspx* file to your webroot in the folder */sitecore/shell/Custom*
 
 Create a new Editor in Sitecore using the following steps:
@@ -28,10 +31,22 @@ Side note: I adviced you to use proper inheritance so that all page templates in
 
 The Page Editor is now embedded in the Content Editor for all the items that were made using the templates for which you just configured it.
 
-Enjoy!
 
----
-Brought to you by Ruud van Falier, ParTech IT
+Release notes
+-------------
+*1.0.0.2*
+- Updated repository structure to match the new ParTech IT naming standards
+
+*1.0.0.1*
+- Fixed incorrect css margin
+
+*1.0.0*
+- Initial release
+
+
+Author
+------
+This solution was brought to you and supported by Ruud van Falier, ParTech IT
 
 Twitter: @BrruuD / @ParTechIT   
 E-mail: ruud@partechit.nl   
